@@ -11,6 +11,5 @@ In Brazilian culture, "pipa avoada" refers to a kite soaring freely in the open 
 * Dark Wallpaper: [[File:Theme_wallpaper_Debian14_aVoada_dark.jpg|thumb|aVoada Dark Wallpaper]]
 * Login Screen (SDDM/GDM): [[File:Theme_loginscreen_Debian14_aVoada.svg.jpg|thumb|aVoada Login Screen]]
 
-=== Source Files & License ===
-* License: GPL-2.0+ / CC-BY-SA 4.0
-* Source SVG files: [Link para o repositório ou pasta com os arquivos editáveis]
+=== License ===
+* License: GNU General Public License v3.0
